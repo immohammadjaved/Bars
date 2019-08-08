@@ -1,0 +1,15 @@
+{
+  "name": "bars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir=src",
+    "build": "gulp compress"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
